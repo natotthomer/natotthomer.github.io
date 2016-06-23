@@ -1596,17 +1596,28 @@
 	text-align: center;
 }
 
-.resume-email a {
+.link a {
 	color: #999999;
 	text-decoration: none;
 	border-bottom: 1px solid #999999;
+	transition-duration: 0.25s;
 }
 
-.resume-email a:hover {
+.link a:hover {
 	color: #444444;
 	border-bottom: 1px solid #444444;
 }
 
 textarea {
 	resize: vertical;
+}
+
+.project {
+	opacity: 1;
+	transition-duration: 0.35s;
+}
+
+.project:hover {
+	opacity: 0.75;
+	transition-duration: 0.35s;
 }
