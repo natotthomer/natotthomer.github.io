@@ -24,7 +24,6 @@
 
 	body {
 		line-height: 1;
-		background-image: url(images/Nathaniel_Homer.jpg);
 	}
 
 	ol, ul {
@@ -1119,6 +1118,10 @@
 				color: white;
 			}
 
+		#footer .copyright {
+			margin-bottom: 0em;
+		}
+
 		#footer .copyright li {
 			display: inline-block;
 		}
@@ -1230,7 +1233,7 @@
 			}
 
 				#wrapper.tall {
-					padding-bottom: 6em;
+					padding-bottom: 0em;
 				}
 
 		/* Nav */
@@ -1620,4 +1623,23 @@ textarea {
 .project:hover {
 	opacity: 0.75;
 	transition-duration: 0.35s;
+}
+
+.me-contact {
+	margin: auto;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.me-contact .link a {
+	text-decoration: none;
+}
+
+.prof-pic {
+	/*padding-bottom: 50px;*/
+}
+
+.nav-bar {
+	padding-top: 20px;
 }
