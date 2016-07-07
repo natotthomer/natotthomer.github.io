@@ -1592,18 +1592,21 @@
 }
 
 .project-description {
-	font-size: 80%;
+	font-size: 70%;
+	margin-bottom: 0px;
+	line-height: 22px;
 }
 
 .resume-email {
 	text-align: center;
 }
 
-.link a {
+.project-description a {
 	color: #999999;
 	text-decoration: none;
 	border-bottom: 1px solid #999999;
 	transition-duration: 0.25s;
+	line-height: 30px;
 }
 
 .link a:hover {
