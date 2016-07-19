@@ -1,8 +1,8 @@
 Portfolio Website of Nathaniel Ott Homer
 
-[live](http://www.natotthomer.com)
+[Live](http://www.natotthomer.com)
 
-[nathaniel.ott.homer@gmail.com](mailto:nathaniel.ott.homer@gmail.com)
+Email: [nathaniel.ott.homer@gmail.com](mailto:nathaniel.ott.homer@gmail.com)
 
 Template:
 
